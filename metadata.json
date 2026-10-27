@@ -1,0 +1,6 @@
+{
+  "name": "Quadtree Image Segmentation Studio",
+  "description": "Studio interactif de segmentation d'image par Quadtree (Division récursive & Fusion Union-Find) avec comparaison Otsu, banc d'expérimentation et génération de rapport universitaire.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
